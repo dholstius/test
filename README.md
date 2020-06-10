@@ -5,3 +5,5 @@
 
 - [ ] This is an empty checkbox
 - [x] This is a checked checkbox
+
+The best branch is the MASTER branch.
