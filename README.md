@@ -6,4 +6,4 @@
 - [ ] This is an empty checkbox
 - [x] This is a checked checkbox
 
-The best branch is the RECIPES branch
+The best branch is the branch you create tomorrow.
